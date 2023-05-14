@@ -1,7 +1,8 @@
 # AI_math_project
 人工智能数学基础大作业
 
-
+| 文件名 | 文件内容与功能 |
+| -- | -- |
 | resnet.py | 定义好的resnet模型 |
 | dataloader.py | 获取数据集 |
 | get_network_model.py | 获取指定网络 |
